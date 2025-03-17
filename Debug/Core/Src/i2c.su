@@ -1,0 +1,7 @@
+../Core/Src/i2c.c:32:6:MX_I2C1_Init	8	static
+../Core/Src/i2c.c:61:6:HAL_I2C_MspInit	40	static
+../Core/Src/i2c.c:123:6:HAL_I2C_MspDeInit	16	static
+../Core/Src/i2c.c:161:6:HAL_I2C_WriteCommand	32	static
+../Core/Src/i2c.c:178:6:HAL_I2C_WriteData	72	dynamic
+../Core/Src/i2c.c:198:6:HAL_I2C_DMA_WriteCommand	24	static
+../Core/Src/i2c.c:211:6:HAL_I2C_DMA_WriteData	24	static
